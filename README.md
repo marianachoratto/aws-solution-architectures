@@ -9,6 +9,7 @@ This repository contains the documentation of a serverless system architecture, 
 ### Architecture Diagram
 
 The diagram below illustrates the data flow and the components involved in the solution.
+![Diagrama da Arquitetura Serverless](https://github.com/marianachoratto/aws-solution-architectures/blob/main/Diagrama%201-%20S3.drawio.svg)
 
 ### How It Works
 
@@ -40,6 +41,8 @@ This repository documents a classic server architecture on AWS, using an EC2 ins
 ### Architecture Diagram
 
 The diagram below illustrates the interaction between the users, the application server, and its persistent storage.
+
+![Diagrama da Arquitetura do Servidor de Jogo](https://github.com/marianachoratto/aws-solution-architectures/blob/main/Diagrama%202.svg)
 
 ### How It Works
 
