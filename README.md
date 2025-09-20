@@ -108,7 +108,7 @@ Este repositório documenta uma arquitetura clássica de servidor na AWS, utiliz
 
 O diagrama abaixo ilustra a interação entre os usuários, o servidor de aplicação e seu armazenamento persistente.
 
-![Diagrama da Arquitetura do Servidor de Jogo](https://github.com/marianachoratto/aws-solution-architectures/blob/main/Diagrama%20sem%20nome.drawio.png)
+![Diagrama da Arquitetura do Servidor de Jogo](https://github.com/marianachoratto/aws-solution-architectures/blob/main/Diagrama%202.svg)
 
 ---
 
